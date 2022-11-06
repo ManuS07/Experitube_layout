@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.expert{
+    background-color: darkcyan;
+    color: black;
+    display: flex;
+  align-items: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    padding-left: 10px;
+    height: 20vh;
+    width: 100vw;
+    letter-spacing: 2px;
+}
+.parent{
+    display: flex;
+}
+.content{
+    background-color: cyan;
+    color: black;
+    font-size: 50pt;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60vh;
+    width: 60vw;
+}
+.aside{
+    background-color: orange;
+    color: black;
+    font-size: 25pt;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60vh;
+    width: 40vw;
+}
+.foot{
+
+    background-color: aquamarine;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height: 20vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+}
